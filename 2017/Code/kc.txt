@@ -1,0 +1,15 @@
+%monthly mean crop coefficient [-]  (average among all the crops and soil uses of the basin)
+
+0.20
+0.20
+0.50
+0.70
+0.80
+1.00
+1.00
+1.00
+0.80
+0.60
+0.30
+0.20
+

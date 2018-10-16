@@ -1,0 +1,14 @@
+% mean monthly temperature [C]
+
+3
+2
+5
+7
+9
+14
+18
+17
+15
+10
+6
+4
